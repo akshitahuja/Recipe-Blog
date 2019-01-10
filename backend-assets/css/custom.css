@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 25, 2016, 8:03:15 PM
+    Author     : Mohammad Shariq
+*/
+
+.danger1{
+    color:red !important;
+    
+}
+.error{
+    color: red !important;
+    font-style: italic;
+}
+
+
+.box-body {
+    overflow-x: scroll !important;
+}
+
+.green_alert
+{
+	background-color:#73a839;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.red_alert
+{
+	background-color:#c71c22;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.blue_alert
+{
+	background-color: #428bca;
+	padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+div.pagination {
+	border:1px solid lightgrey;
+	padding: 8px 0px;
+}
+
+div.pagination strong {
+	background-color: #337ab7;
+	padding:10px;
+	color: #fff;
+}
+
+div.pagination a {
+	padding:9px;
+	color: grey;
+	border-right: 1px solid lightgrey;
+}
+
+div.pagination a:last-child {
+	border: none;
+}
